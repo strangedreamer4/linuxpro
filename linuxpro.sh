@@ -8,7 +8,7 @@ git pull origin master
 
 # Display update message
 echo "hellcat has been updated."
-
+clear
 
 
 
